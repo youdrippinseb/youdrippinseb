@@ -1,4 +1,4 @@
-- 👋 Yo, I’m @youdrippinseb
+- 👋 Aye, I’m @youdrippinseb
 - 👀 I’m interested in IT, Telecomunication & Music.
 - 🌱 I’m currently learning drip code.
 - 📫 seb.drago.1337@gmail.com
