@@ -9,4 +9,3 @@ You can click the Preview link to take a look at your changes.
 --->
    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s3bzdrago&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-![DRIP_ENT](https://user-images.githubusercontent.com/96479305/151964893-c4c1fadf-d8d8-47f0-8c16-b4188ef59ddf.jpg)
