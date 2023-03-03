@@ -1,7 +1,7 @@
 - 👋 Aye, I’m @youdrippinseb
-- 👀 Interested in IT, Telecomunication & Music.
+- 👀 Interested in IT, Scams & Music.
 - 🌱 I've been learning drip code.
-- 📫 seb.drago.1337@gmail.com
+- 📫 youdrippinseb@gmail.com
 
 <!---
 youdrippinseb/youdrippinseb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
